@@ -1,7 +1,7 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "jiosaavn",
-  "account_id": "d87fcbef5873e0c42f928109f8acb5af",
+  "account_id": "f14c4d4629ba31d68fcf8599a192dd6d",
   "main": "src/server.ts",
   "compatibility_date": "2025-01-01",
   "compatibility_flags": [
